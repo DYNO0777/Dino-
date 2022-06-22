@@ -1,2 +1,4 @@
 # Dino-
-Welcome To ky world 
+Welcome To my world 
+#commands
+#git clone links
